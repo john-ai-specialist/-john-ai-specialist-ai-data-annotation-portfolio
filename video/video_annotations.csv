@@ -1,0 +1,4 @@
+video_file,activity,start_time,end_time
+video1.mp4,walking,0,5
+video1.mp4,running,6,10
+video2.mp4,car driving,0,8
