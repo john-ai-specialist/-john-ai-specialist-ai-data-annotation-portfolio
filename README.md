@@ -1,2 +1,29 @@
-# -john-ai-specialist-ai-data-annotation-portfolio
-Sample datasets for image, text, audio, and video annotation used for AI training.
+# AI Data Annotation Portfolio
+
+This repository contains sample datasets demonstrating AI data annotation skills.
+
+## Dataset Types
+
+Images
+Bounding box annotations for object detection.
+
+Text
+Sentiment and classification labels for NLP tasks.
+
+Audio
+Speech transcription and emotion labeling.
+
+Video
+Activity recognition and time-based annotations.
+
+## Tools Used
+Label Studio
+Doccano
+LabelImg
+CVAT
+
+## Author
+AI Data Annotation Specialist
+
+LinkedIn: ()
+Email: ()
