@@ -23,7 +23,7 @@ LabelImg
 CVAT
 
 ## Author
-AI Data Annotation Specialist
+john-ai-specialist
 
-LinkedIn: ()
-Email: ()
+LinkedIn: (www.linkedin.com/in/john-muturi-030b52401)
+Email: (john.ai.specialist@gmail.com)
