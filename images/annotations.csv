@@ -1,0 +1,5 @@
+image_file,object_class,x_min,y_min,x_max,y_max
+cat1.jpg,cat,45,60,210,230
+dog1.jpg,dog,30,50,180,160
+car1.jpg,car,70,90,250,200
+person1.jpg,person,20,40,120,180
