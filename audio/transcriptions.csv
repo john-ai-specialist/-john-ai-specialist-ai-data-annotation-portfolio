@@ -1,0 +1,4 @@
+audio_file,transcription,emotion
+audio1.mp3,"Hello how are you",happy
+audio2.mp3,"Please help me",sad
+audio3.mp3,"Thank you very much",happy
