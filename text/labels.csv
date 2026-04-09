@@ -1,0 +1,5 @@
+text,label,sentiment
+"The service was excellent",review,positive
+"I am unhappy with the product",complaint,negative
+"The delivery was fast",review,positive
+"The item arrived damaged",complaint,negative
